@@ -1,4 +1,3 @@
-def grid():
-
+num = input("num")
 
 
